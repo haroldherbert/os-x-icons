@@ -1,11 +1,14 @@
-os-x-icons
+OS X Icons
 ==========
 
-"Less, but Better" - Dieter Rams
+"Less, but better" - Dieter Rams
 
-Simple OS X icons built on an 11x11 pixel grid.
+simple OS X icons built on an 11x11 pixel grid
 
-Hand crafted in California, U.S.A.
+[OS X Icon set](light/img/os-x-icon-set.png)
+
+crafted in california, u.s.a.
 
 haroldherbert@me.com
+
 www.HaroldHerbert.com
